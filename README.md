@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lena</h1>
-<h3 align="center">An IT-student from Russia from the 21 school</h3>
+<h3 align="center">An IT-student from Russia at 21 school</h3>
 
 - 🔭 I’m currently working on [philosophers](https://github.com/lenazve1996/philosophers)
 
