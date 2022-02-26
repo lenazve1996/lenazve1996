@@ -14,4 +14,4 @@
 
 [![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenazve1996&show_icons=true&theme=algolia)](https://github.com/lenazve1996/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenazve1996)](https://github.com/lenazve1996/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenazve1996&show_icons=true&theme=algolia)](https://github.com/lenazve1996/github-readme-stats)
