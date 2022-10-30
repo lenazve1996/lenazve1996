@@ -1,11 +1,11 @@
 <h3 align="center">Hi 👋, I'm Lena</h3>
 <h3 align="center">An IT-student from Russia at 21 school</h3>
 
-- 🔭 I’m currently working on [minishell](https://github.com/lenazve1996/minishell)
+- 🔭 I’m currently working on Inception
 
-- 🌱 I’m currently learning **how to make my own shell in C and computer networking**
+- 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on **cub3d (42cursus)**
+- 👯 I’m looking to collaborate on **webserv**
 
 - 📫 How to reach me **lenazve1996@gmail.com**
 
